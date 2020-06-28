@@ -1,7 +1,3 @@
 
 .ipynb_checkpoints/capstone-ds-checkpoint.ipynb
-.idea/vcs.xml
-.idea/coursera-ds-capstone.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
+.idea/*
